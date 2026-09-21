@@ -4,12 +4,12 @@ Final-year B.Tech CSE (AI & Robotics) student at VIT Chennai, building backend s
 
 I like taking things from "does it work" to "does it hold up" - distributed systems, ML pipelines, and the occasional quant finance rabbit hole.
 
-## 🚀 What I'm building
+## What I'm building
 
 - **Backend & distributed systems** - Java, Spring Boot, Redis, Docker
 - **Applied ML & GenAI** - fraud detection, RAG pipelines, fine-tuning, quant modeling
 
-## 📌 Projects
+## Projects
 
 ### [Distributed API Rate Limiter](https://github.com/Ashya-Joselin)
 Java · Spring Boot · Redis · Lua scripting · Docker
@@ -35,7 +35,7 @@ Churn model on the Telco dataset (7,043 records), improving recall from 48% to 7
 R · ggplot2 · caret · randomForest · PCA
 Predictive quality model on coffee sample data with a random forest achieving R² ≈ 0.99, as part of a 4-person team.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** Java · Python · R · SQL · JavaScript
 
@@ -45,14 +45,14 @@ Predictive quality model on coffee sample data with a random forest achieving R�
 
 **Cloud & Tools:** AWS (EC2, S3, Lambda, RDS) · Docker · Git · Tableau · Power BI
 
-## 🎯 Currently
+## Currently
 
-- Preparing for SDE, ML, and AI/GenAI roles (2027 batch)
+- Preparing for SDE, Data Science, and AI/GenAI roles (2027 batch)
 - Working on my capstone: object detection metrics vs. robot navigation reliability, using AI2-THOR simulation
 - Exploring agentic AI systems - LangChain, LangGraph, RAG architectures
 
 ---
 
-## 📫 Reach me
+## Reach me
 
 [LinkedIn](https://linkedin.com/in/ashya-j-48a55b293) · ashyajoselin@gmail.com
