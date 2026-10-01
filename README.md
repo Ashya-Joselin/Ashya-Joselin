@@ -9,28 +9,6 @@ I like taking things from "does it work" to "does it hold up" - distributed syst
 - **Backend & distributed systems** - Java, Spring Boot, Redis, Docker
 - **Applied ML & GenAI** - fraud detection, RAG pipelines, fine-tuning, quant modeling
 
-## Projects
-
-### [Credit Card Fraud Detection System](https://github.com/Ashya-Joselin/Credit-Card-Fraud-Detection-System)
-Python · XGBoost · FastAPI · Docker · AWS EC2
-Fraud detection model trained on 284K+ transactions, achieving 0.97 ROC-AUC, deployed as a containerized API on EC2.
-
-### [RAG Log Analyzer System](https://github.com/Ashya-Joselin/RAG-Log-Analyzer)
-Python · FastAPI · FAISS · HuggingFace · PyTorch · LoRA
-Log analysis system combining retrieval (FAISS) with a LoRA fine-tuned model, served through a Streamlit interface.
-
-### [Implied Volatility Surface Reconstruction](https://github.com/Ashya-Joselin/implied-volatility-surface-reconstruction)
-Python · LightGBM · Ridge Regression
-Reconstructed IV surfaces from 8,753 usable rows of options data, cutting RMSE from a 3.7 baseline to 0.37. Built for the National Quant Finance Olympiad 2026 (advanced to Round 3: Model Building).
-
-### [Customer Churn Prediction](https://github.com/Ashya-Joselin/Customer-Churn-Prediction)
-Python · Scikit-learn · SHAP · Streamlit
-Churn model on the Telco dataset (7,043 records), improving recall from 48% to 72%+ with 0.83 ROC-AUC, explained via SHAP.
-
-### [Arabica Coffee Quality Analysis](https://github.com/Ashya-Joselin/Arabica-Coffee-Quality-Analysis)
-R · ggplot2 · caret · randomForest · PCA
-Predictive quality model on coffee sample data with a random forest achieving R² ≈ 0.99, as part of a 4-person team.
-
 ## Tech Stack
 
 **Languages:** Java · Python · R · SQL · JavaScript
